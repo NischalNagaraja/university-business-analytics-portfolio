@@ -9,7 +9,7 @@ Academic reports from my MSc Business Analytics and Management at the University
 | Irish Retail | Omnichannel customer behaviour, CRISP-DM and descriptive/predictive analytics | [Report](irish-retail-report.md) |
 | Insurance Renewal | Customer retention, renewal modelling and pricing | [Report](insurance-renewal-report.md) |
 | Primavera Gallery | Digital business model and strategy | [Report](primavera-gallery-report.md) |
-| Social Media Dissertation | Facebook engagement and tourism-business research | [Report](social-media-dissertation-report.md) |
+| Social Media Dissertation | Facebook engagement and tourism-business research | [Final dissertation PDF](social-media-dissertation-final.pdf) · [Text extract](social-media-dissertation-report.md) |
 | PlayStation | Digital marketing and customer engagement | [Report](playstation-marketing-report.md) |
 | Swarovski | Product positioning, market analysis and marketing planning | [Report](swarovski-marketing-report.md) |
 
@@ -22,3 +22,7 @@ Student identifiers and contact details are removed. Raw datasets, university ma
 ## Related technical project
 
 [CRM Data Reconciliation — Python, SQLite and Streamlit](https://github.com/NischalNagaraja/bellhaven-crm-reconciliation)
+
+## Final dissertation
+
+The final submitted dissertation is available as a PDF, with the student identifier removed. Appendix A contains Python code using Pandas, Matplotlib, Seaborn, TextBlob and scikit-learn for sentiment analysis, TF-IDF, K-means clustering and linear regression. The report contains an unfinished R² placeholder on page 29; no verified model performance score is claimed here.
